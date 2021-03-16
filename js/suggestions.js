@@ -1,0 +1,23 @@
+export const suggestions = [
+"apple",
+"alpha",
+"ball",
+"beta",
+"cat",
+"camel",
+"dog",
+"dolphin",
+"orange",
+"tomato",
+"twitter",
+"lusan",
+"gowtham",
+"flipkart",
+"javascript",
+"html",
+"css",
+"node",
+"war",
+"facebook",
+"elephant"]
+
